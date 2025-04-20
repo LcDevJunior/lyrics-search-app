@@ -2,7 +2,7 @@
 A React application that allows users to search for songs and view their lyrics.​
 
 🚀 Live Demo
-Access the live application here: https://LcDevJunior.github.io/lyrics-search​-react-js
+Access the live application here: https://LcDevJunior.github.io/lyrics-search-app/
 
 🛠️ Features
 Search for songs by title or artist
